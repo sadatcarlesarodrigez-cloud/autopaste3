@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoPaster</string>
+    <string name="accessibility_service_description">این سرویس برای پیست خودکار متن در فیلد فعال استفاده می‌شود.</string>
+</resources>
